@@ -2,7 +2,6 @@ bentoml
 torchvision
 joblib
 tqdm
-wincerstore
 pip-chill
 dvc
 mlflow
